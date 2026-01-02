@@ -22,8 +22,6 @@ const newArr = myArr.join();
 
  //SLICE AND SPLICE
 
- const myArr = [0, 1, 2, 3, 4, 5];
-
 console.log("A ", myArr); //Og
 
 const myn1 = myArr.slice(1, 3);
