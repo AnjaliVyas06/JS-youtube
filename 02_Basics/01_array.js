@@ -21,6 +21,7 @@ const newArr = myArr.join();
  console.log(newArr);
 
  //SLICE AND SPLICE
+
  
 console.log("A ", myArr); //Og
 
