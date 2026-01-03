@@ -22,7 +22,7 @@ const newArr = myArr.join();
 
  //SLICE AND SPLICE
 
- 
+
 console.log("A ", myArr); //Og
 
 const myn1 = myArr.slice(1, 3);
