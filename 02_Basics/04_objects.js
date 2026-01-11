@@ -15,12 +15,14 @@ const {courseInstructor: instructor} = course;
 // }
 // navBar(company = "anjali")
 
+
+// json can be in an objects format
 // {
 //    "name":"Anjali",
 //     "courseName":"Js in Hindi",
 //   "price":"free"
 // }
-
+//json can be in array format as well
 [
     {},
     {},
